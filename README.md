@@ -12,8 +12,8 @@ The Ultimate Module supports these devices at the moment:
 # Changelog
 You can see the changelogs in the Telegram Channel! [Click here for the changelog](https://t.me/CyberK_Stuff).
 
-!CAUTION
-Use AOD Wallpaper on the S23 and S23+ at your own risk! This module is also tested, so you shouldn't have any issues with it if you did all the steps of installing it correctly. No one is gonna take responsibility if you break your device with this module!
+[!CAUTION]
+<Use AOD Wallpaper on the S23 and S23+ at your own risk! This module is also tested, so you shouldn't have any issues with it if you did all the steps of installing it correctly. No one is gonna take responsibility if you break your device with this module!>
 
-!TIP
-If this GitHub page doesn't get updated in time when a new module releases, get the new and updated Ultimate Module from the [Cyber's channel](https://t.me/CyberK_Stuff) on Telegram.
+[!TIP]
+<If this GitHub page doesn't get updated in time when a new module releases, get the new and updated Ultimate Module from the [Cyber's channel](https://t.me/CyberK_Stuff) on Telegram.>
