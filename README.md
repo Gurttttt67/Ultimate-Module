@@ -1,6 +1,6 @@
 # Cyber Ultimate Module
 The S23 & S22 Ultimate module adds most features from the Galaxy S25. The Ultimate Module for the Gakaxy S22 is maintained by [@legionfx41](https://t.me/legionfx41) on telegram.
-[!NOTE]
+<[!NOTE]>
 The Ultimate Module supports these devices at the moment:
 • Galaxy S23 (SM-S911X / dm1q)
 • Galaxy S23+ (SM-S916X / dm2q)
